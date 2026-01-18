@@ -97,7 +97,7 @@ const Footer = () => {
               © {currentYear} Lakkaru Soft Technologies (Pvt) Ltd. All rights reserved.
             </p>
             <p className="text-gray-400 text-sm mt-2 md:mt-0">
-              Business Registration No: 39/862 | Registered in Panduwasnuwara East Sri Lanka
+              Business Registration No: 39/862 | Registered in Panduwasnuwara East, Sri Lanka
             </p>
           </div>
         </div>

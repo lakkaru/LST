@@ -32,8 +32,8 @@ const Home = () => {
   ]
 
   const stats = [
-    { value: '50+', label: 'Projects Delivered' },
-    { value: '30+', label: 'Happy Clients' },
+    { value: '5+', label: 'Projects Delivered' },
+    { value: '3+', label: 'Happy Clients' },
     { value: '5+', label: 'Years Experience' },
     { value: '24/7', label: 'Support Available' },
   ]
