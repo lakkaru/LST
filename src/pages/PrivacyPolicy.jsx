@@ -24,7 +24,7 @@ const PrivacyPolicy = () => {
             <div className="mb-10">
               <h2 className="text-2xl font-bold text-gray-900 mb-4">1. Introduction</h2>
               <p className="text-gray-600 mb-4">
-                Lakkaru Soft Technologies (Pvt) Ltd ("Company," "we," "us," or "our") is committed 
+                Lakkaru Soft Technologies ("Company," "we," "us," or "our") is committed 
                 to protecting your privacy and personal data. This Privacy Policy explains how we collect, 
                 use, store, and protect your information when you use our website, services, or interact with us.
               </p>

@@ -82,7 +82,7 @@ const About = () => {
               </h2>
               <div className="space-y-4 text-gray-600">
                 <p>
-                  Founded in 2019, <strong className="text-gray-900">Lakkaru Soft Technologies (Pvt) Ltd</strong> emerged 
+                  Founded in 2019, <strong className="text-gray-900">Lakkaru Soft Technologies</strong> emerged 
                   from a vision to bridge the gap between businesses and technology in Sri Lanka. 
                   Our name "Lakkaru" reflects our commitment to providing smart, intelligent solutions 
                   that drive business success.
@@ -104,7 +104,7 @@ const About = () => {
               <div className="space-y-4">
                 <div>
                   <p className="text-sm text-gray-500">Legal Name</p>
-                  <p className="text-gray-900 font-medium">Lakkaru Soft Technologies (Pvt) Ltd</p>
+                  <p className="text-gray-900 font-medium">Lakkaru Soft Technologies</p>
                 </div>
                 <div>
                   <p className="text-sm text-gray-500">Business Registration</p>

@@ -210,4 +210,4 @@ For technical support, contact:
 
 ## 📄 License
 
-© 2026 Lakkaru Soft Technologies (Pvt) Ltd. All rights reserved.
+© 2026 Lakkaru Soft Technologies. All rights reserved.

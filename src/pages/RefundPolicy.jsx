@@ -25,7 +25,7 @@ const RefundPolicy = () => {
               <h2 className="text-2xl font-bold text-gray-900 mb-4">1. Introduction</h2>
               <p className="text-gray-600 mb-4">
                 This Refund and Cancellation Policy outlines the terms and conditions under which 
-                Lakkaru Soft Technologies (Pvt) Ltd ("Company," "we," "us," or "our") provides refunds 
+                Lakkaru Soft Technologies ("Company," "we," "us," or "our") provides refunds 
                 for our software development and related services.
               </p>
               <p className="text-gray-600">

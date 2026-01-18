@@ -24,7 +24,7 @@ const TermsAndConditions = () => {
             <div className="mb-10">
               <h2 className="text-2xl font-bold text-gray-900 mb-4">1. Introduction</h2>
               <p className="text-gray-600 mb-4">
-                Welcome to Lakkaru Soft Technologies (Pvt) Ltd ("Company," "we," "us," or "our"). 
+                Welcome to Lakkaru Soft Technologies ("Company," "we," "us," or "our"). 
                 These Terms and Conditions ("Terms") govern your use of our software development services, 
                 website, and any related products or services offered by us.
               </p>
@@ -139,7 +139,7 @@ const TermsAndConditions = () => {
               <ul className="list-disc list-inside text-gray-600 space-y-2 mb-4">
                 <li>Bank Transfer (Commercial Bank of Ceylon, Bank of Ceylon, Sampath Bank)</li>
                 <li>Online Payment via PayHere (Credit/Debit Cards, Mobile Wallets)</li>
-                <li>Cheque (Crossed cheque in favor of "Lakkaru Soft Technologies (Pvt) Ltd")</li>
+                <li>Cheque (Crossed cheque in favor of "Lakkaru Soft Technologies")</li>
               </ul>
 
               <h3 className="text-lg font-semibold text-gray-900 mb-2">5.4 Late Payments</h3>

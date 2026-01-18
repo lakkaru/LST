@@ -37,7 +37,7 @@ const Contact = () => {
       ),
       title: 'Office Address',
       details: [
-        'Lakkaru Soft Technologies (Pvt) Ltd',
+        'Lakkaru Soft Technologies',
         'No. 54/1, Wilbagedara',
         'Bandarakoswaththa',
         'Sri Lanka',
