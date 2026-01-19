@@ -250,7 +250,7 @@ const RefundPolicy = () => {
                 <p><strong>Accounts Department</strong></p>
                 <p>Lakkaru Soft Technologies</p>
                 <p>No. 54/1, Wilbagedara, Bandarakoswaththa, Sri Lanka</p>
-                <p>Email: info@lakkaru.com</p>
+                <p>Email: hello@lakkaru.com</p>
                 <p>Phone: +94 37 433 1659</p>
                 <p className="mt-4 text-sm">
                   Please include your project reference number in all communications.

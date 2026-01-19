@@ -64,7 +64,7 @@ const Contact = () => {
       ),
       title: 'Email Addresses',
       details: [
-        'info@lakkaru.com (General)',
+        'hello@lakkaru.com (General)',
         'lakkaru@gmail.com (Sales)',
       ],
     },

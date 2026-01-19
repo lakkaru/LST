@@ -36,7 +36,7 @@ const PrivacyPolicy = () => {
                 <strong>Data Controller:</strong><br />
                 Lakkaru Soft Technologies<br />
                 No. 54/1, Wilbagedara, Bandarakoswaththa, Sri Lanka<br />
-                Email: info@lakkaru.com<br />
+                Email: hello@lakkaru.com<br />
                 Phone: +94 37 433 1659
               </p>
             </div>
@@ -275,7 +275,7 @@ const PrivacyPolicy = () => {
                 <p><strong>Data Protection Officer</strong></p>
                 <p>Lakkaru Soft Technologies</p>
                 <p>No. 54/1, Wilbagedara, Bandarakoswaththa, Sri Lanka</p>
-                <p>Email: info@lakkaru.com</p>
+                <p>Email: hello@lakkaru.com</p>
                 <p>Phone: +94 37 433 1659</p>
               </div>
             </div>

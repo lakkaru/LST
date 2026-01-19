@@ -38,7 +38,7 @@ const TermsAndConditions = () => {
                 Lakkaru Soft Technologies<br />
                 Business Registration No: 39/862<br />
                 No. 54/1, Wilbagedara, Bandarakoswaththa, Sri Lanka<br />
-                Email: info@lakkaru.com | Phone: +94 37 433 1659
+                Email: hello@lakkaru.com | Phone: +94 37 433 1659
               </p>
             </div>
 
@@ -285,7 +285,7 @@ const TermsAndConditions = () => {
               <div className="text-gray-600">
                 <p><strong>Lakkaru Soft Technologies</strong></p>
                 <p>No. 54/1, Wilbagedara, Bandarakoswaththa, Sri Lanka</p>
-                <p>Email: info@lakkaru.com</p>
+                <p>Email: hello@lakkaru.com</p>
                 <p>Phone: +94 37 433 1659</p>
               </div>
             </div>
